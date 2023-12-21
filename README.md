@@ -27,5 +27,5 @@ Note: This is a basic implementation feel free to adjust the parameters as you n
 
 ## Output
 
-![Model Predictions]([https://example.com/machine-learning-logo.png](https://github.com/somesh-bagadiya/Stock-Market-Prediction-Using-Stacked-LSTM-s/blob/9e4aae2e17d1ff15b6a663ee34ed43a82fab2262/LSTM/TrainingLoss.png)https://github.com/somesh-bagadiya/Stock-Market-Prediction-Using-Stacked-LSTM-s/blob/9e4aae2e17d1ff15b6a663ee34ed43a82fab2262/LSTM/TrainingLoss.png)
+![Model Predictions](LSTM/ModelPrediction.png)
 
