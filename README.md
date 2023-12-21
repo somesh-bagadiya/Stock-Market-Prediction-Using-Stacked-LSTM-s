@@ -23,6 +23,9 @@ Please make sure that Python is installed on your system, and also make sure to 
 ## How to run
 
 In the LSTM folder, you can find the code for the market prediction code. Make sure you download a CSV of your favorite stock from Yahoo Finance API and rename it as stock_price.csv
+
+The model, based on Stacked LSTM, analyzes historical market data with a sequence length of 100 days for improved forecasting accuracy. Explore the codebase for a straightforward solution to predict stock trends using machine learning.
+
 Note: This is a basic implementation feel free to adjust the parameters as you need it.
 
 ## Output
