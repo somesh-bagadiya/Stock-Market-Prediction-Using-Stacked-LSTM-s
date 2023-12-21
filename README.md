@@ -28,8 +28,10 @@ Note: This is a basic implementation feel free to adjust the parameters as you n
 ## Output
 
 ![Model Predictions](LSTM/ModelPrediction.png)
+
 *Caption: This is the model predictions*
 
 
 ![Model Predictions](LSTM/TrainingLoss.png)
+
 *Caption: This is the graph of Training Loss vs Validation Loss*
